@@ -5,13 +5,13 @@ I coded this using c++ and it's a file based system.
 
 
 # project features :
--sign up or sign in
--show questions I asked
--show questions I recieved
--ask a new question
--respond to a question
--delete a question
--list all the users in the system
+- sign up or sign in
+* show questions I asked
++ show questions I recieved
+- ask a new question
+- respond to a question
+- delete a question
+- list all the users in the system
 
 
 project [demo](https://drive.google.com/file/d/10KIbDpKex6PhGIs3K-ga19_m_BtKPCNk/view?usp=drivesdk)
