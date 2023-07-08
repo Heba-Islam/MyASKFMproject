@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1688351600 source:c:\users\heba\downloads\proj_oop_1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<map>
+
